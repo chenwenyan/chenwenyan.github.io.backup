@@ -131,3 +131,29 @@ h1:before, .anchor:before {
     border-radius: .5rem; /* 圆角 */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* 添加阴影，进一步提升视觉效果 */
 }
+
+.paper-title {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 4px;
+}
+.paper-authors {
+    color: #666;
+    margin-bottom: 8px;
+}
+.pdf-button {
+    display: inline-block;
+    background-color: #9370DB;
+    color: white !important;
+    padding: 6px 15px;
+    border-radius: 15px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    font-size: 14px;
+    border: 1px solid #7B68EE;
+}
+.pdf-button:hover {
+    background-color: #7B68EE;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(147, 112, 219, 0.2);
+}
