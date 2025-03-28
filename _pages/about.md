@@ -46,12 +46,6 @@ Greetings! I am a forth-year PhD student in the Cloud and Distributed Systems (C
 
 - <span class="conf_title_badge">CSCWD 2024</span> [EINS: Edge-Cloud Deep Model Inference with Network-Efficiency Schedule in Serverless](https://ieeexplore.ieee.org/abstract/document/10580052/), Shijie Peng, Yanying Lin, **Wenyan Chen**, Yingfei Tang, Xu Duan, Kejiang Ye. <span class='show_paper_citations' data='WKFOF1cAAAAJ:eQOLeE2rZwMC'></span>
 
-<div class="conf_title_badge">CSCWD 2024</div>
-<div class="paper-title">EINS: Edge-Cloud Deep Model Inference with Network-Efficiency Schedule in Serverless</div>
-<div class="paper-authors">Shijie Peng, Yanying Lin, <strong>Wenyan Chen</strong>, Yingfei Tang, Xu Duan, Kejiang Ye</div>
-<a href="https://ieeexplore.ieee.org/abstract/document/10580052/" class="pdf-button" target="_blank">PDF</a>
-<span class='show_paper_citations' data='WKFOF1cAAAAJ:eQOLeE2rZwMC'></span>
-
 - <span class="conf_title_badge">SC 2023</span> [Interference-aware Multiplexing for Deep Learning in GPU Clusters: A Middleware Approach](https://dl.acm.org/doi/pdf/10.1145/3581784.3607060), **Wenyan Chen**, Zizhao Mo, Huanle Xu, Kejiang Ye, Chengzhong Xu. [[Code]](https://github.com/buzy-coder/IADeep) <a href="pdfs/IADeep-slides.pdf">[Slides]</a> <span class='show_paper_citations' data='WKFOF1cAAAAJ:YsMSGLbcyi4C'></span> 
 
 - <span class="conf_title_badge">CLUSTER 2021</span> [RPTCN: Resource prediction for high-dynamic workloads in clouds based on deep learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556034), **Wenyan Chen**, Chengzhi Lu, Kejiang Ye, Yang Wang, Chengzhong Xu. <span class='show_paper_citations' data='WKFOF1cAAAAJ:Tyk-4Ss8FVUC'></span> 
